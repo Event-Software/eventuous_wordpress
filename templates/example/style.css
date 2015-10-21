@@ -1,0 +1,19 @@
+#footer_h4 {
+	color: red;
+	text-transform: uppercase;
+}
+
+.ul_container {
+    width: 450px;
+}
+.ul_container ul {
+    padding: 0; /* remove default padding and all margins! */
+    margin: 0;
+    list-style-type: none; /* remove the • */
+}
+.ul_container ul li {
+    width: 150px;
+    /*height: 150px;*/
+    /*background-color: red;*/
+    float: left;
+}

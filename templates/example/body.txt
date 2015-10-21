@@ -1,0 +1,1 @@
+<li><a href="http://www.eventuo.us/events/[event.id]"><div class="event">[event.name]</div><div class="location">[event.location]</div></a></li>
