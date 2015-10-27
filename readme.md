@@ -1,12 +1,12 @@
-=== Eventuous Plugin for WordPress ===
+# Eventuous Plugin for WordPress
 
-== Description ==
+## Description 
 
 Plugin to get events from Eventuo.us Event Engine.
 
 Visit Eventuo.us to create an account.  Visit your profile page once you have obtained an account to set up your Integrations.  You'll need at least one organization or venue.  Create an API key for it on that page.
 
-== Installation ==
+## Installation
 
 1. Upload the `eventuous` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress.  Input your API tokens.
@@ -14,7 +14,7 @@ Visit Eventuo.us to create an account.  Visit your profile page once you have ob
 
 [eventuous type="events" template="example"]
 
-== Changelog ==
+## Changelog
 
-= 0.1 =
+### 0.1
 This is the first release of the plugin.
